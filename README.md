@@ -1,1 +1,1 @@
-A CLI quiz app about our Universe. Built using NodeJS and deployed in Netlify.
+A CLI quiz app about our Universe, built using NodeJS and deployed in REPL.
